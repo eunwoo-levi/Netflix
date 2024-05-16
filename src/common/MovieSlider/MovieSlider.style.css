@@ -1,0 +1,12 @@
+.carousel-container{
+    overflow:hidden;
+    height:440px;
+    max-width:95%;
+    margin:auto;
+}
+
+.slide-title{
+    margin-left: 40px;
+    font-weight: bold;
+    
+}
