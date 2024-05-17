@@ -1,4 +1,4 @@
-Making Netflix Movie Website              <... still in Progress>
+Making Netflix Movie Website              <... still in Progress> 
 
 https://eunwoo-netflix.netlify.app
 
