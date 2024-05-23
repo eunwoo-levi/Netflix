@@ -7,7 +7,7 @@ import MoviePage from './pages/Movies/MoviePage';
 import MovieDetailPage from './pages/MovieDetail/MovieDetailPage';
 import NotFoundPage from './NotFoundPage/NotFoundPage';
 
-
+ 
 // 홈페이지   /
 // 영화 전체 보여주는 페이지 (서치)   /movies
 // 영화 디테일 페이지   /movies/:id
