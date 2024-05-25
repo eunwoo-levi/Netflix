@@ -12,7 +12,6 @@ import NotFoundPage from './NotFoundPage/NotFoundPage';
 // 영화 전체 보여주는 페이지 (서치)   /movies
 // 영화 디테일 페이지   /movies/:id
 
-
 // index 는 path="/" 랑 동일
 // 서브 라우터 = nested route
 function App() {
