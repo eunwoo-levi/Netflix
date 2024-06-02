@@ -4,7 +4,7 @@ website :
 https://eunwoo-levi-netflix.netlify.app
 
 
-FlameWork : React , React Query , Router,
+FlameWork : React , React Query , Router
 
 
 
