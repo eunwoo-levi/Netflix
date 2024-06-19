@@ -1,4 +1,4 @@
-Making Netflix Movie Website              <... still in Progress> 
+Making Netflix Movie Website            <Framework : React>
 
 website :
 https://eunwoo-levi-netflix.netlify.app
